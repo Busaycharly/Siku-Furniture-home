@@ -4,14 +4,6 @@ This is an e-commerce website for furnitures. which allows users add products tO
 
 This project is all about creating an enabling enviroment for furniture users areound the world so that individuals or groups will be able to get or buy furniture products at the comfort of their or offices in an affordable price anywherearound the world
 
-This is the current link to my landing page
-it will be changed soon once i start working on the backend
-https://busaycharly.github.io/Siku-Furniture-home/
-
-A link to the design page
-https://www.figma.com/file/194MavmhAB8SlFxnBdawwL?type=design
-
-
 ## USEFUL LINKS
  - [Product Design (UI/UX) URL](https://www.figma.com/file/194MavmhAB8SlFxnBdawwL/Siku-Furniture-Home?type=design&node-id=1%3A2&t=39O0mPSs6FcAKoHs-1)
 
